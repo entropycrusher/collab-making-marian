@@ -9,6 +9,7 @@ This project was a collaboration ("collab") with Janet (ChatGPT) where we design
 ## 📁 Contents
 
 - `config/` — collection of configuration info needed to build Marian, including a "Description" and "Instructions"
-- `data/` — a small excerpt of my LibraryThing reading history to serve as an example of Marian's "Knowledge Base"
+- `data/` — a small excerpt of my LibraryThing (LT) reading history and the slimmed down JSON file as a glimpse of Marian's "Knowledge Base"
+- `src/` — Python source code to transform the LT history into a JSON file which is amenable for a custom GPT like Marian
 - `README.md` — This file
 - `LICENSE` — License info
