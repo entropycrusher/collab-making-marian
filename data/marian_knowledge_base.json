@@ -1,0 +1,65 @@
+{
+  "books": [
+    {
+      "title": "Mansfield Park (Penguin Classics)",
+      "author": "Austen, Jane",
+      "rating": 5.0,
+      "review": "Finished 3/20/2008 - Was motivated to read this story after seeing the recent Masterpiece Theatre treatment on PBS.  I liked it.",
+      "tags": [
+        "Austen",
+        "historical"
+      ],
+      "date_started": null,
+      "date_read": null
+    },
+    {
+      "title": "Pride and Prejudice (Bantam Classics)",
+      "author": "Austen, Jane",
+      "rating": 5.0,
+      "review": "Read 3/1/2008 - Tough to beat.  We always enjoy watching a 6-hour marathon of the A&E mini-series with Jennifer Ehle and Colin Firth - a very honest adaptation of the book.",
+      "tags": [
+        "Austen",
+        "historical"
+      ],
+      "date_started": null,
+      "date_read": null
+    },
+    {
+      "title": "The Turk: The Life and Times of the Famous Eighteenth-Century Chess-Playing Machine",
+      "author": "Standage, Tom",
+      "rating": 3.0,
+      "review": "Read early 2008 - An interesting story, but I think it could have been the subject of a 25-page paper rather than a full-length book.",
+      "tags": [
+        "chess",
+        "automaton",
+        "automata"
+      ],
+      "date_started": null,
+      "date_read": null
+    },
+    {
+      "title": "Bobby Fischer Goes to War: How A Lone American Star Defeated the Soviet Chess Machine (P.S.)",
+      "author": "Edmonds, David",
+      "rating": 2.0,
+      "review": "Read Early 2008 - Shortly after Fischer's death in early 2008, I was motivated to read this book.  I remembered the news reports I heard as a child, but didn't really understand the larger context.  There was plenty of context supplied here, but I personally would have liked more focus on the chess games themselves.  Still, it held some interest.",
+      "tags": [
+        "chess",
+        "history",
+        "soviet union"
+      ],
+      "date_started": null,
+      "date_read": null
+    },
+    {
+      "title": "Genome..the Autobiography of a Species in 23 Chapters",
+      "author": "Ridley, Matt",
+      "rating": null,
+      "review": "",
+      "tags": [
+        "genetics"
+      ],
+      "date_started": "2008-03-22",
+      "date_read": null
+    }
+  ]
+}
